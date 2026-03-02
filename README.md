@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/hetbarasara-maker/Leetcode/tree/master/0016-3sum-closest) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Counting
 |  |
 | ------- |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hetbarasara-maker/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
