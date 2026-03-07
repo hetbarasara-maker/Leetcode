@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hetbarasara-maker/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/1025-divisor-game) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hetbarasara-maker/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Brainteaser
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hetbarasara-maker/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hetbarasara-maker/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Tree
 |  |
 | ------- |
