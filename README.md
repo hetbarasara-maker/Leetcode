@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/1025-divisor-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hetbarasara-maker/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/hetbarasara-maker/Leetcode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
