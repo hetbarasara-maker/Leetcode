@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hetbarasara-maker/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/1025-divisor-game) |
 | [1622-fancy-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hetbarasara-maker/Leetcode/tree/master/0016-3sum-closest) |
 | [0761-special-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetbarasara-maker/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Counting
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetbarasara-maker/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Binary Search
 |  |
@@ -168,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/1622-fancy-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->
