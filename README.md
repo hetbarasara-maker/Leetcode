@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hetbarasara-maker/Leetcode/tree/master/0016-3sum-closest) |
 | [0761-special-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetbarasara-maker/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Counting
@@ -127,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hetbarasara-maker/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetbarasara-maker/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
 |  |
