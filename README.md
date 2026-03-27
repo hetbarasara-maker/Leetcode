@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/1025-divisor-game) |
 | [1622-fancy-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hetbarasara-maker/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hetbarasara-maker/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
