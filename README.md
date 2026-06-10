@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/hetbarasara-maker/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/hetbarasara-maker/Leetcode/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hetbarasara-maker/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0976-largest-perimeter-triangle](https://github.com/hetbarasara-maker/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/1025-divisor-game) |
 | [1622-fancy-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/hetbarasara-maker/Leetcode/tree/master/0016-3sum-closest) |
 | [0761-special-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0761-special-binary-string) |
+| [0976-largest-perimeter-triangle](https://github.com/hetbarasara-maker/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/hetbarasara-maker/Leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/hetbarasara-maker/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0976-largest-perimeter-triangle](https://github.com/hetbarasara-maker/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/hetbarasara-maker/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hetbarasara-maker/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
