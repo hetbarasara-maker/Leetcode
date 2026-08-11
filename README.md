@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
