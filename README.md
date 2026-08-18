@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hetbarasara-maker/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/hetbarasara-maker/Leetcode/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/hetbarasara-maker/Leetcode/tree/master/0696-count-binary-substrings) |
