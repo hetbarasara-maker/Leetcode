@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/hetbarasara-maker/Leetcode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/hetbarasara-maker/Leetcode/tree/master/0441-arranging-coins) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hetbarasara-maker/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/hetbarasara-maker/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
