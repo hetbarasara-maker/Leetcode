@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hetbarasara-maker/Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0525-contiguous-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hetbarasara-maker/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hetbarasara-maker/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/hetbarasara-maker/Leetcode/tree/master/0198-house-robber) |
+| [0525-contiguous-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0525-contiguous-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/hetbarasara-maker/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hetbarasara-maker/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/hetbarasara-maker/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
