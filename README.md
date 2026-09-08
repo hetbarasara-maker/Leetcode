@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hetbarasara-maker/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hetbarasara-maker/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hetbarasara-maker/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hetbarasara-maker/Leetcode/tree/master/0278-first-bad-version) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
