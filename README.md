@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hetbarasara-maker/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2833-furthest-point-from-origin](https://github.com/hetbarasara-maker/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hetbarasara-maker/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/hetbarasara-maker/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
