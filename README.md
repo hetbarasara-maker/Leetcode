@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hetbarasara-maker/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
