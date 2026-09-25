@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/hetbarasara-maker/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hetbarasara-maker/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hetbarasara-maker/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Recursion
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hetbarasara-maker/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hetbarasara-maker/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
