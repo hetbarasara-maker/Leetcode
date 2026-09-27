@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/hetbarasara-maker/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0761-special-binary-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hetbarasara-maker/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hetbarasara-maker/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hetbarasara-maker/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hetbarasara-maker/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Interactive
 |  |
 | ------- |
