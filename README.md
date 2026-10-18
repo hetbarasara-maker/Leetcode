@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hetbarasara-maker/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2574-left-and-right-sum-differences](https://github.com/hetbarasara-maker/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/hetbarasara-maker/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2574-left-and-right-sum-differences](https://github.com/hetbarasara-maker/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
