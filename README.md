@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/hetbarasara-maker/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetbarasara-maker/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hetbarasara-maker/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetbarasara-maker/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hetbarasara-maker/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hetbarasara-maker/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/hetbarasara-maker/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/hetbarasara-maker/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/hetbarasara-maker/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hetbarasara-maker/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/hetbarasara-maker/Leetcode/tree/master/0441-arranging-coins) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hetbarasara-maker/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hetbarasara-maker/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hetbarasara-maker/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
