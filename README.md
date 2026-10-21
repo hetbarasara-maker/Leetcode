@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/hetbarasara-maker/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hetbarasara-maker/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
