@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/hetbarasara-maker/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3452-sum-of-good-numbers](https://github.com/hetbarasara-maker/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hetbarasara-maker/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
