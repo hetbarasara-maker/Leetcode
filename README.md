@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/hetbarasara-maker/Leetcode/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/hetbarasara-maker/Leetcode/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hetbarasara-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hetbarasara-maker/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hetbarasara-maker/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/hetbarasara-maker/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hetbarasara-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/hetbarasara-maker/Leetcode/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0761-special-binary-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/hetbarasara-maker/Leetcode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/hetbarasara-maker/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hetbarasara-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
