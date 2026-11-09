@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/hetbarasara-maker/Leetcode/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/hetbarasara-maker/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0761-special-binary-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/hetbarasara-maker/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/hetbarasara-maker/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/hetbarasara-maker/Leetcode/tree/master/0645-set-mismatch) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hetbarasara-maker/Leetcode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0500-keyboard-row](https://github.com/hetbarasara-maker/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/hetbarasara-maker/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hetbarasara-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
