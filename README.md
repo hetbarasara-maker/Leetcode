@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hetbarasara-maker/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hetbarasara-maker/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/hetbarasara-maker/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/hetbarasara-maker/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hetbarasara-maker/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/hetbarasara-maker/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/hetbarasara-maker/Leetcode/tree/master/2717-semi-ordered-permutation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetbarasara-maker/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
