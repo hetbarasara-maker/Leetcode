@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/hetbarasara-maker/Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/hetbarasara-maker/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/hetbarasara-maker/Leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/hetbarasara-maker/Leetcode/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/hetbarasara-maker/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hetbarasara-maker/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/hetbarasara-maker/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/hetbarasara-maker/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/hetbarasara-maker/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0500-keyboard-row](https://github.com/hetbarasara-maker/Leetcode/tree/master/0500-keyboard-row) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hetbarasara-maker/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/hetbarasara-maker/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/hetbarasara-maker/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hetbarasara-maker/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hetbarasara-maker/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -561,4 +564,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hetbarasara-maker/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hetbarasara-maker/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hetbarasara-maker/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
