@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hetbarasara-maker/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/hetbarasara-maker/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/hetbarasara-maker/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hetbarasara-maker/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hetbarasara-maker/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hetbarasara-maker/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
