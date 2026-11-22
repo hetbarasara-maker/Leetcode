@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hetbarasara-maker/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/hetbarasara-maker/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hetbarasara-maker/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/hetbarasara-maker/Leetcode/tree/master/2409-count-days-spent-together) |
