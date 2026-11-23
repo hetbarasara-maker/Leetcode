@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/hetbarasara-maker/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/hetbarasara-maker/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/hetbarasara-maker/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/hetbarasara-maker/Leetcode/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/hetbarasara-maker/Leetcode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hetbarasara-maker/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/hetbarasara-maker/Leetcode/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
