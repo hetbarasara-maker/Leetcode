@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hetbarasara-maker/Leetcode/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0696-count-binary-substrings](https://github.com/hetbarasara-maker/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0881-boats-to-save-people](https://github.com/hetbarasara-maker/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hetbarasara-maker/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetbarasara-maker/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hetbarasara-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/hetbarasara-maker/Leetcode/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0761-special-binary-string) |
+| [0881-boats-to-save-people](https://github.com/hetbarasara-maker/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hetbarasara-maker/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/hetbarasara-maker/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hetbarasara-maker/Leetcode/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/hetbarasara-maker/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/hetbarasara-maker/Leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/hetbarasara-maker/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/hetbarasara-maker/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hetbarasara-maker/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/hetbarasara-maker/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0881-boats-to-save-people](https://github.com/hetbarasara-maker/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hetbarasara-maker/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hetbarasara-maker/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/hetbarasara-maker/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -589,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hetbarasara-maker/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/hetbarasara-maker/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
