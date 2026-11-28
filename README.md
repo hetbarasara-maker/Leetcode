@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hetbarasara-maker/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hetbarasara-maker/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hetbarasara-maker/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hetbarasara-maker/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hetbarasara-maker/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hetbarasara-maker/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/hetbarasara-maker/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Matrix
 |  |
 | ------- |
